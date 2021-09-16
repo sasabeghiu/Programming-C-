@@ -1,0 +1,13 @@
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\bin\Debug\netcoreapp3.1\Programming3-assignments.exe
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\bin\Debug\netcoreapp3.1\Programming3-assignments.deps.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\bin\Debug\netcoreapp3.1\Programming3-assignments.runtimeconfig.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\bin\Debug\netcoreapp3.1\Programming3-assignments.runtimeconfig.dev.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\bin\Debug\netcoreapp3.1\Programming3-assignments.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\bin\Debug\netcoreapp3.1\Programming3-assignments.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.csprojAssemblyReference.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.AssemblyInfoInputs.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.AssemblyInfo.cs
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\Programming3-Exam\Programming3-assignments\obj\Debug\netcoreapp3.1\Programming3-assignments.genruntimeconfig.cache

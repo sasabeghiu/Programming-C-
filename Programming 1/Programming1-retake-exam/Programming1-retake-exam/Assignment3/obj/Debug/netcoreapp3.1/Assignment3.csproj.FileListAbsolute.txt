@@ -1,0 +1,11 @@
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csprojAssemblyReference.cache
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+D:\1NHOLLAND\term1\programming1\Programming1-retake-exam\Programming1-retake-exam\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb

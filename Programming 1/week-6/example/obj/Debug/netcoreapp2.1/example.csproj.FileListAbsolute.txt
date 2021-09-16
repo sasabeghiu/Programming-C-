@@ -1,0 +1,11 @@
+D:\1NHOLLAND\programming1\week-6\example\bin\Debug\netcoreapp2.1\example.deps.json
+D:\1NHOLLAND\programming1\week-6\example\bin\Debug\netcoreapp2.1\example.runtimeconfig.json
+D:\1NHOLLAND\programming1\week-6\example\bin\Debug\netcoreapp2.1\example.runtimeconfig.dev.json
+D:\1NHOLLAND\programming1\week-6\example\bin\Debug\netcoreapp2.1\example.dll
+D:\1NHOLLAND\programming1\week-6\example\bin\Debug\netcoreapp2.1\example.pdb
+D:\1NHOLLAND\programming1\week-6\example\obj\Debug\netcoreapp2.1\example.csprojAssemblyReference.cache
+D:\1NHOLLAND\programming1\week-6\example\obj\Debug\netcoreapp2.1\example.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\programming1\week-6\example\obj\Debug\netcoreapp2.1\example.AssemblyInfoInputs.cache
+D:\1NHOLLAND\programming1\week-6\example\obj\Debug\netcoreapp2.1\example.AssemblyInfo.cs
+D:\1NHOLLAND\programming1\week-6\example\obj\Debug\netcoreapp2.1\example.dll
+D:\1NHOLLAND\programming1\week-6\example\obj\Debug\netcoreapp2.1\example.pdb

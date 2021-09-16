@@ -1,0 +1,14 @@
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\ReservationSystemLogic.deps.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\ReservationSystemLogic.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\ReservationSystemLogic.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\DAL.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\Model.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\bin\Debug\netcoreapp3.1\Model.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.csprojAssemblyReference.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.AssemblyInfoInputs.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.AssemblyInfo.cs
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.csproj.CopyComplete
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week-5\ReservationSystemLogic\obj\Debug\netcoreapp3.1\ReservationSystemLogic.pdb

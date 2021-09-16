@@ -1,0 +1,8 @@
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\bin\Debug\netcoreapp3.1\MyTools.deps.json
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\bin\Debug\netcoreapp3.1\MyTools.dll
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\bin\Debug\netcoreapp3.1\MyTools.pdb
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\obj\Debug\netcoreapp3.1\MyTools.AssemblyInfoInputs.cache
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\obj\Debug\netcoreapp3.1\MyTools.AssemblyInfo.cs
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\obj\Debug\netcoreapp3.1\MyTools.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\obj\Debug\netcoreapp3.1\MyTools.dll
+D:\1NHOLLAND\year1repeat\1.2\programming 2\week-5\MyTools\obj\Debug\netcoreapp3.1\MyTools.pdb

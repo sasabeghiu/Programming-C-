@@ -1,0 +1,10 @@
+D:\1NHOLLAND\programming1\week-4\assignment6\bin\Debug\assignment6.exe.config
+D:\1NHOLLAND\programming1\week-4\assignment6\bin\Debug\assignment6.exe
+D:\1NHOLLAND\programming1\week-4\assignment6\bin\Debug\assignment6.pdb
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.csprojAssemblyReference.cache
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.Form1.resources
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.csproj.GenerateResource.cache
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.exe
+D:\1NHOLLAND\programming1\week-4\assignment6\obj\Debug\assignment6.pdb

@@ -1,0 +1,9 @@
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\bin\Debug\assignmnent10.exe.config
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\bin\Debug\assignmnent10.exe
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\bin\Debug\assignmnent10.pdb
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\obj\Debug\assignmnent10.csprojAssemblyReference.cache
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\obj\Debug\assignmnent10.Form1.resources
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\obj\Debug\assignmnent10.Properties.Resources.resources
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\obj\Debug\assignmnent10.csproj.GenerateResource.cache
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\obj\Debug\assignmnent10.exe
+D:\1NHOLLAND\term1\programming1\week-3\assignmnent10\obj\Debug\assignmnent10.pdb

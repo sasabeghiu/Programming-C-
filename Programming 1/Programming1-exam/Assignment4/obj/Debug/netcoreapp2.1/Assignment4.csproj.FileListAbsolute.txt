@@ -1,0 +1,2 @@
+D:\1NHOLLAND\term1\programming1\Programming1-exam\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.AssemblyInfoInputs.cache
+D:\1NHOLLAND\term1\programming1\Programming1-exam\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.AssemblyInfo.cs

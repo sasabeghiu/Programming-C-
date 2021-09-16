@@ -1,0 +1,11 @@
+D:\1NHOLLAND\programming1\week-4\assignment4\obj\Debug\netcoreapp2.1\assignment4.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\programming1\week-4\assignment4\obj\Debug\netcoreapp2.1\assignment4.AssemblyInfoInputs.cache
+D:\1NHOLLAND\programming1\week-4\assignment4\obj\Debug\netcoreapp2.1\assignment4.AssemblyInfo.cs
+D:\1NHOLLAND\programming1\week-4\assignment4\bin\Debug\netcoreapp2.1\assignment4.deps.json
+D:\1NHOLLAND\programming1\week-4\assignment4\bin\Debug\netcoreapp2.1\assignment4.runtimeconfig.json
+D:\1NHOLLAND\programming1\week-4\assignment4\bin\Debug\netcoreapp2.1\assignment4.runtimeconfig.dev.json
+D:\1NHOLLAND\programming1\week-4\assignment4\bin\Debug\netcoreapp2.1\assignment4.dll
+D:\1NHOLLAND\programming1\week-4\assignment4\bin\Debug\netcoreapp2.1\assignment4.pdb
+D:\1NHOLLAND\programming1\week-4\assignment4\obj\Debug\netcoreapp2.1\assignment4.dll
+D:\1NHOLLAND\programming1\week-4\assignment4\obj\Debug\netcoreapp2.1\assignment4.pdb
+D:\1NHOLLAND\programming1\week-4\assignment4\obj\Debug\netcoreapp2.1\assignment4.csprojAssemblyReference.cache

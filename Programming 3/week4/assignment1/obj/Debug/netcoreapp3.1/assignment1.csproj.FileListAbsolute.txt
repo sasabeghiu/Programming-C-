@@ -1,0 +1,16 @@
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\assignment1.exe
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\assignment1.deps.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\assignment1.runtimeconfig.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\assignment1.runtimeconfig.dev.json
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\assignment1.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\assignment1.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\Model.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\bin\Debug\netcoreapp3.1\Model.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.csprojAssemblyReference.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfoInputs.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfo.cs
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.csproj.CoreCompileInputs.cache
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.csproj.CopyComplete
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.dll
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.pdb
+D:\1NHOLLAND\year1repeat\1.3\programming 3\week4\assignment1\obj\Debug\netcoreapp3.1\assignment1.genruntimeconfig.cache
